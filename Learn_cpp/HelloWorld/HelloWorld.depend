@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1740933562 source:c:\users\kennedy waweru\desktop\code\september_25\learn_cpp\helloworld\main.cpp
+	<iostream>
+
+1758826863 source:c:\users\kennedy waweru\desktop\code\september_25\learn_cpp\helloworld\hello.cpp
+	<iostream>
+
+1758832083 source:c:\users\kennedy waweru\desktop\code\september_25\learn_cpp\helloworld\banking.cpp
+	<iostream>
+
